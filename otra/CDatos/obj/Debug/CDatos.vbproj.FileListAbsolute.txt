@@ -1,0 +1,12 @@
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CDatos\bin\Debug\CDatos.dll
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CDatos\bin\Debug\CDatos.pdb
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CDatos\bin\Debug\CDatos.xml
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CDatos\bin\Debug\CEntidad.dll
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CDatos\bin\Debug\CEntidad.pdb
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CDatos\bin\Debug\CEntidad.xml
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CDatos\obj\Debug\CDatos.vbprojResolveAssemblyReference.cache
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CDatos\obj\Debug\CDatos.Resources.resources
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CDatos\obj\Debug\CDatos.vbproj.GenerateResource.Cache
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CDatos\obj\Debug\CDatos.dll
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CDatos\obj\Debug\CDatos.xml
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CDatos\obj\Debug\CDatos.pdb

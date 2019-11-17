@@ -1,0 +1,8 @@
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CEntidad\bin\Debug\CEntidad.dll
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CEntidad\bin\Debug\CEntidad.pdb
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CEntidad\bin\Debug\CEntidad.xml
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CEntidad\obj\Debug\CEntidad.Resources.resources
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CEntidad\obj\Debug\CEntidad.vbproj.GenerateResource.Cache
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CEntidad\obj\Debug\CEntidad.dll
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CEntidad\obj\Debug\CEntidad.xml
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CEntidad\obj\Debug\CEntidad.pdb

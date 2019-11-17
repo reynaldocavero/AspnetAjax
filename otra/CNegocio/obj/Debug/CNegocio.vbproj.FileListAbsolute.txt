@@ -1,0 +1,12 @@
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CNegocio\bin\Debug\CNegocio.dll
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CNegocio\bin\Debug\CNegocio.pdb
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CNegocio\bin\Debug\CNegocio.xml
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CNegocio\bin\Debug\CDatos.dll
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CNegocio\bin\Debug\CDatos.pdb
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CNegocio\bin\Debug\CDatos.xml
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CNegocio\obj\Debug\CNegocio.vbprojResolveAssemblyReference.cache
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CNegocio\obj\Debug\CNegocio.Resources.resources
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CNegocio\obj\Debug\CNegocio.vbproj.GenerateResource.Cache
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CNegocio\obj\Debug\CNegocio.dll
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CNegocio\obj\Debug\CNegocio.xml
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\CNegocio\obj\Debug\CNegocio.pdb

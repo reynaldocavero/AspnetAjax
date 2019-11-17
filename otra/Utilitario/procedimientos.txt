@@ -1,0 +1,9 @@
+ALTER procedure [dbo].[sp_insertarCliente]
+@xml as xml
+as
+begin
+	insert into Cliente(cliente,numero,activo) SELECT 
+       T.Item.value('nombre[1]', 'varchar(128)'),
+       T.Item.value('numero[1]',  'varchar(11)'),
+       T.Item.value('activo[1]', 'int')
+FROM   @xml.nodes('Clientes/Cliente') AS T(Item)

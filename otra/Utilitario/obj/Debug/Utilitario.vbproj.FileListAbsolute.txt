@@ -1,0 +1,9 @@
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\Utilitario\bin\Debug\Utilitario.dll
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\Utilitario\bin\Debug\Utilitario.pdb
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\Utilitario\bin\Debug\Utilitario.xml
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\Utilitario\obj\Debug\Utilitario.vbprojResolveAssemblyReference.cache
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\Utilitario\obj\Debug\Utilitario.Resources.resources
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\Utilitario\obj\Debug\Utilitario.vbproj.GenerateResource.Cache
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\Utilitario\obj\Debug\Utilitario.dll
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\Utilitario\obj\Debug\Utilitario.xml
+c:\users\julia\documents\visual studio 2015\Projects\plantillaWeb\Utilitario\obj\Debug\Utilitario.pdb
