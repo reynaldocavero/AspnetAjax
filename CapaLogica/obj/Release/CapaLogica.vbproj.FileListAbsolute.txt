@@ -1,0 +1,17 @@
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\bin\Release\CapaLogica.dll
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\bin\Release\CapaLogica.pdb
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\bin\Release\CapaLogica.xml
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\bin\Release\CapaDato.dll
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\bin\Release\CapaEntidad.dll
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\bin\Release\CapaDato.pdb
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\bin\Release\CapaDato.xml
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\bin\Release\CapaEntidad.pdb
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\bin\Release\CapaEntidad.xml
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\obj\Release\CapaLogica.vbprojAssemblyReference.cache
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\obj\Release\CapaLogica.Resources.resources
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\obj\Release\CapaLogica.vbproj.GenerateResource.cache
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\obj\Release\CapaLogica.vbproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\obj\Release\CapaLogica.vbproj.CopyComplete
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\obj\Release\CapaLogica.dll
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\obj\Release\CapaLogica.xml
+C:\Users\Julia\source\repos\vb2019NCapas\CapaLogica\obj\Release\CapaLogica.pdb

@@ -1,0 +1,9 @@
+C:\Users\Julia\source\repos\vb2019NCapas\CapaEntidad\bin\Release\CapaEntidad.dll
+C:\Users\Julia\source\repos\vb2019NCapas\CapaEntidad\bin\Release\CapaEntidad.pdb
+C:\Users\Julia\source\repos\vb2019NCapas\CapaEntidad\bin\Release\CapaEntidad.xml
+C:\Users\Julia\source\repos\vb2019NCapas\CapaEntidad\obj\Release\CapaEntidad.Resources.resources
+C:\Users\Julia\source\repos\vb2019NCapas\CapaEntidad\obj\Release\CapaEntidad.vbproj.GenerateResource.cache
+C:\Users\Julia\source\repos\vb2019NCapas\CapaEntidad\obj\Release\CapaEntidad.vbproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\vb2019NCapas\CapaEntidad\obj\Release\CapaEntidad.dll
+C:\Users\Julia\source\repos\vb2019NCapas\CapaEntidad\obj\Release\CapaEntidad.xml
+C:\Users\Julia\source\repos\vb2019NCapas\CapaEntidad\obj\Release\CapaEntidad.pdb

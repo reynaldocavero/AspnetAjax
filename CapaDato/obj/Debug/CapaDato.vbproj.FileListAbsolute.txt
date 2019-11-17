@@ -1,0 +1,10 @@
+C:\Users\Julia\source\repos\vb2019NCapas\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\Julia\source\repos\vb2019NCapas\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\Julia\source\repos\vb2019NCapas\CapaDato\bin\Debug\CapaDato.xml
+C:\Users\Julia\source\repos\vb2019NCapas\CapaDato\obj\Debug\CapaDato.vbprojAssemblyReference.cache
+C:\Users\Julia\source\repos\vb2019NCapas\CapaDato\obj\Debug\CapaDato.Resources.resources
+C:\Users\Julia\source\repos\vb2019NCapas\CapaDato\obj\Debug\CapaDato.vbproj.GenerateResource.cache
+C:\Users\Julia\source\repos\vb2019NCapas\CapaDato\obj\Debug\CapaDato.vbproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\vb2019NCapas\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\Julia\source\repos\vb2019NCapas\CapaDato\obj\Debug\CapaDato.xml
+C:\Users\Julia\source\repos\vb2019NCapas\CapaDato\obj\Debug\CapaDato.pdb

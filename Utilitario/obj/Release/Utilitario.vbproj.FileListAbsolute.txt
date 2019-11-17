@@ -1,0 +1,10 @@
+C:\Users\Julia\source\repos\vb2019NCapas\Utilitario\bin\Release\Utilitario.dll
+C:\Users\Julia\source\repos\vb2019NCapas\Utilitario\bin\Release\Utilitario.pdb
+C:\Users\Julia\source\repos\vb2019NCapas\Utilitario\bin\Release\Utilitario.xml
+C:\Users\Julia\source\repos\vb2019NCapas\Utilitario\obj\Release\Utilitario.vbprojAssemblyReference.cache
+C:\Users\Julia\source\repos\vb2019NCapas\Utilitario\obj\Release\Utilitario.Resources.resources
+C:\Users\Julia\source\repos\vb2019NCapas\Utilitario\obj\Release\Utilitario.vbproj.GenerateResource.cache
+C:\Users\Julia\source\repos\vb2019NCapas\Utilitario\obj\Release\Utilitario.vbproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\vb2019NCapas\Utilitario\obj\Release\Utilitario.dll
+C:\Users\Julia\source\repos\vb2019NCapas\Utilitario\obj\Release\Utilitario.xml
+C:\Users\Julia\source\repos\vb2019NCapas\Utilitario\obj\Release\Utilitario.pdb
