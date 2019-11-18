@@ -1,3 +1,8 @@
+cadena de conexion sin logeo de usuario
+<add name="cn" connectionString="server=JULLSRODRIGUEZ;Initial Catalog=layher;Integrated Security=SSPI;" providerName="System.Data.SqlClient"></add>
+
+
+
 USE [logistica]
 GO
 /****** Object:  StoredProcedure [dbo].[sp_insertarCliente]    Script Date: 17/11/2019 19:06:43 ******/
